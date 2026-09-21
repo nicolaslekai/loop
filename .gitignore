@@ -1,0 +1,20 @@
+# never publish these
+*.zip
+*.psd
+*.ai
+*.indd
+fonts/
+*.otf
+*.ttf
+*.woff
+*.woff2
+whatsapp-inbox/
+CLAUDE.md
+.env
+.env.*
+
+# build + OS
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
